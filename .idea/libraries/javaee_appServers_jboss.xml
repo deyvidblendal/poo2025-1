@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaee-appServers-jboss">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/javaee-appServers-jboss/lib/javaee-appServers-jboss.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

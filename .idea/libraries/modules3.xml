@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/java/lib/modules/intellij.java.unscramble.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/java/lib/modules/intellij.java.structuralSearch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/java/lib/modules/intellij.jvm.analysis.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/java/lib/modules/intellij.java.featuresTrainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/java/lib/modules/intellij.java.vcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

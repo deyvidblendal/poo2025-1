@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quarkus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/quarkus/lib/quarkus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/grid-impl/lib/grid-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/grid-impl/lib/grid-scripting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

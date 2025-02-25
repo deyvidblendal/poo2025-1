@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/vcs-git/lib/vcs-git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/vcs-git/lib/git4idea-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

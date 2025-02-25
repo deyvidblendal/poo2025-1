@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.generator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

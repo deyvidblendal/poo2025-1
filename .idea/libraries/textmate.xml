@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="textmate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/textmate/lib/textmate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/groovy-constants-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/groovy-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/groovy-spock-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/Groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/groovy-jps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/Groovy/lib/groovy-rt-class-loader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

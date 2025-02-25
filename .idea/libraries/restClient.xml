@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/restClient/lib/restClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

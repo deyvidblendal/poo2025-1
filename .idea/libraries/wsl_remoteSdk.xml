@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wsl-remoteSdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/wsl-remoteSdk/lib/wsl-remoteSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-gradle-dsl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/android-gradle-dsl/lib/android-gradle-dsl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

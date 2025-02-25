@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-ide-provisioner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/platform-ide-provisioner/lib/platform-ide-provisioner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

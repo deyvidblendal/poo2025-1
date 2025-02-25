@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tasks-timeTracking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/tasks-timeTracking/lib/tasks-timeTracking.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

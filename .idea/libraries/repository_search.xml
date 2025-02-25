@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="repository-search">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ideaIU-2024.3.2.2.win/plugins/repository-search/lib/repository-search.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
